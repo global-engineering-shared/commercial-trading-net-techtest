@@ -2,8 +2,8 @@
 A simple command line utility for finding anagrams in a specified file
 
 ## Software required to run this
-* .NET
-* Visual Studio Code
+* .NET 6.0 (https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+* Visual Studio Code (https://code.visualstudio.com/download)
 * Visual Studio Code C# Dev Kit Extension
 
 ## Building and Running the tests
