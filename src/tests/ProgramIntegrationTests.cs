@@ -23,7 +23,6 @@ public class ProgramIntegrationTests
         StringAssert.IsMatch(output[0], "Please ensure that the input file is provided");        
     }
 
-
     [Test]
     public void ShouldReturnInputFileDoesNotExist()
     {
