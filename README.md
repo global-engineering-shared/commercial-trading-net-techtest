@@ -17,8 +17,7 @@ The files `example1.txt` and `example2.txt` are just sample input data to help y
 If you make other assumptions, write them down in a readme in your submission.
 
 ## How much time do I have?
-Try to spend 30-45 mins on this exercise. We have written some scaffolding that you can use: Wecommercial-trading-java-techtest-master.zip.
-ask you not to fork this repository instead just download the zip and push to your own public git repo.
+Try to spend 30-45 mins on this exercise. We have written some scaffolding that you can use: commercial-trading-net-techtest-master.zip. We ask you not to fork this repository instead just download the zip and push to your own public git repo.
 
 ## Our expectations
 A solution implemented .NET
